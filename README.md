@@ -114,8 +114,8 @@ f1-race-strategy-optimizer/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/f1-race-strategy-optimizer.git
-cd f1-race-strategy-optimizer
+git clone https://github.com/sharmaaditya2003/F1-Race-Strategy-Optimizer.git
+cd F1-Race-Strategy-Optimizer
 ```
 
 ### 2. Install dependencies
@@ -153,7 +153,7 @@ Built as a Ferrari fan. Engineered as a data scientist.
 
 **Aditya Sharma**
 MTech Data Science (Business Analytics) — NMIMS University
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/aditya-sharma-097057250) · [Kaggle](https://www.kaggle.com/adityasharma100203) · [GitHub](https://github.com/sharmaaditya2003)
 
 ---
 
